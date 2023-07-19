@@ -12,10 +12,10 @@ Tech Stack:
 
 API Endpoints:
 
-   GET /: alloha my friend.
-   POST /login: Verify your identity and receive those tokens and cookies for secure access.
-   POST /register: get onboard this AuthShip with your email and essential credentials
-   GET /dashboard: welcome the users to your app with their dashboard
+   - GET /: alloha my friend.
+   - POST /login: Verify your identity and receive those tokens and cookies for secure access.
+   - POST /register: get onboard this AuthShip with your email and essential credentials
+   - GET /dashboard: welcome the users to your app with their dashboard
 
 Your Contributions Matter:
   We're thrilled to welcome your contributions! Whether it's bug fixes, new features, or improvements, send those pull requests our way!
